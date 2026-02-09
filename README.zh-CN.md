@@ -1,16 +1,16 @@
 # tauri-react-starter
 
-🚀 Tauri React starter
+🚀 Tauri React 起步模板
 
-## Install
+## 安装
 
 ```bash
 npx degit tlyboy/tauri-react-starter my-project
 ```
 
-## Usage
+## 使用说明
 
-Requires [Rust](https://www.rust-lang.org/) to be installed.
+需要安装 [Rust](https://www.rust-lang.org/)。
 
 ```bash
 pnpm install
@@ -18,6 +18,6 @@ pnpm tauri dev
 pnpm tauri build
 ```
 
-## License
+## 使用许可
 
 [MIT](https://opensource.org/licenses/MIT) © Guany
