@@ -13,15 +13,15 @@
     "@tailwindcss/vite": "^4.2.1",
     "@tauri-apps/api": "^2.10.1",
     "@tauri-apps/plugin-opener": "^2.5.3",
-    "react": "^19.1.5",
-    "react-dom": "^19.1.5",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
     "tailwindcss": "^4.2.1"
   },
   "devDependencies": {
     "@egoist/tailwindcss-icons": "^1.9.2",
-    "@iconify-json/carbon": "^1.2.18",
-    "@tauri-apps/cli": "^2.10.0",
-    "@types/node": "^22.19.11",
+    "@iconify-json/carbon": "^1.2.19",
+    "@tauri-apps/cli": "^2.10.1",
+    "@types/node": "^22.19.15",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^5.1.4",
@@ -31,7 +31,7 @@
     "typescript": "~5.9.3",
     "vite": "npm:rolldown-vite@latest"
   },
-  "packageManager": "pnpm@10.30.2",
+  "packageManager": "pnpm@10.32.0",
   "engines": {
     "node": "24.x"
   }
