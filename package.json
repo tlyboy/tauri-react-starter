@@ -29,7 +29,7 @@
     "prettier": "^3.8.1",
     "prettier-plugin-tailwindcss": "^0.7.2",
     "typescript": "~5.9.3",
-    "vite": "npm:rolldown-vite@latest"
+    "vite": "^8.0.0"
   },
   "packageManager": "pnpm@10.32.0",
   "engines": {
